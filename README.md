@@ -10,19 +10,9 @@
 
 2. Second Order Overdamped System
 
-<img width="425" alt="NO2" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/205008c7-95d4-4833-bd99-d3e0aef7fef6">
-
-<img width="425" alt="NO2 BLOCK DIA" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/5c9ccc30-031d-4b30-86b2-5b767c359b23">
-
-<img width="425" alt="SIMULINK2" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/b1df55af-f530-4bdf-8ba5-a326613a2e18">
 
 3. Second Order Critically Damped System
 
-<img width="425" alt="NO3" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/a962bc64-a944-4cc0-8057-2d2164bbb2d1">
-
-<img width="425" alt="NO3 BLOCK DIA" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/db6510a7-378b-4970-b0e4-e7dfeff7216f">
-
-<img width="425" alt="SIMULINK3" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/16df333b-9e42-4d86-bbac-574e22685ed0">
 
 4. First Order System
 
