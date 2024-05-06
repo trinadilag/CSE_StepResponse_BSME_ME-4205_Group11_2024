@@ -40,4 +40,8 @@
 
 8. Nonlinear System Approximation
 
+![download](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/cc8d4fab-eb30-4fa4-9dbc-605f5db7b8d0)
 
+![download](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/acc29151-6524-41cd-9da4-40d8b57c06b4)
+
+![download](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/56533697-9f70-4b7f-8275-e73dc6c5300a)
