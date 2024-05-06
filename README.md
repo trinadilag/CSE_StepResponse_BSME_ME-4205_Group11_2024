@@ -8,16 +8,26 @@
 
 ![download](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/91549e71-b594-4f19-a9b6-e72443b7f495)
 
-3. Second Order Overdamped System
+2. Second Order Overdamped System
+
+<img width="425" alt="NO2" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/205008c7-95d4-4833-bd99-d3e0aef7fef6">
+
+<img width="349" alt="NO2 BLOCK DIA" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/5c9ccc30-031d-4b30-86b2-5b767c359b23">
+
+<img width="425" alt="SIMULINK2" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/b1df55af-f530-4bdf-8ba5-a326613a2e18">
+
+3. Second Order Critically Damped System
+
+<img width="425" alt="NO3" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/a962bc64-a944-4cc0-8057-2d2164bbb2d1">
+
+<img width="358" alt="NO3 BLOCK DIA" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/db6510a7-378b-4970-b0e4-e7dfeff7216f">
+
+<img width="423" alt="SIMULINK3" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/16df333b-9e42-4d86-bbac-574e22685ed0">
+
+4. First Order System
 
 
-4. Second Order Critically Damped System
-
-
-5. First Order System
-
-
-6. Resonant System
+5. Resonant System
 
 ![Screenshot 2024-05-06 224404](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159030152/ff62d44e-b305-4448-bcc0-892cece3adc7)
 
