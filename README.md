@@ -1,18 +1,23 @@
 # CSE_StepResponse_BSME_ME-4205_Group12_2024
 
 1. Second Order Underdamped System
+   
+![download](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/29cddc8f-8356-4cf5-8e08-5f1847b12008)
+
+![download](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/1b7a276d-182b-478e-a88e-ded110babde6)
+
+![download](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/91549e71-b594-4f19-a9b6-e72443b7f495)
+
+3. Second Order Overdamped System
 
 
-2. Second Order Overdamped System
+4. Second Order Critically Damped System
 
 
-3. Second Order Critically Damped System
+5. First Order System
 
 
-4. First Order System
-
-
-5. Resonant System
+6. Resonant System
 
 ![Screenshot 2024-05-06 224404](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159030152/ff62d44e-b305-4448-bcc0-892cece3adc7)
 
