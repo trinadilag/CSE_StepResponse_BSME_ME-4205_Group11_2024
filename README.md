@@ -10,19 +10,19 @@
 
 2. Second Order Overdamped System
 
-<img width="500" alt="NO2" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/2de62303-a258-46db-aed4-c6e72afccc2c">
+<img width="800" alt="NO2" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/2de62303-a258-46db-aed4-c6e72afccc2c">
 
-<img width="500" alt="NO2 BLOCK DIA" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/295329eb-d216-4f67-a979-bc76026aa29b">
+<img width="800" alt="NO2 BLOCK DIA" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/295329eb-d216-4f67-a979-bc76026aa29b">
 
-<img width="500" alt="SIMULINK2" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/a1ce7e06-fb9b-4a73-8460-1f842d0026a5">
+<img width="800" alt="SIMULINK2" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/a1ce7e06-fb9b-4a73-8460-1f842d0026a5">
 
 3. Second Order Critically Damped System
 
-<img width="500" alt="NO3" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/0f96a089-d139-4fc5-8e13-46a686f526af">
+<img width="800" alt="NO3" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/0f96a089-d139-4fc5-8e13-46a686f526af">
 
-<img width="500" alt="NO3 BLOCK DIA" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/ff06c3f8-c29c-44fc-990d-f88f7f9daf57">
+<img width="800" alt="NO3 BLOCK DIA" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/ff06c3f8-c29c-44fc-990d-f88f7f9daf57">
 
-<img width="500" alt="SIMULINK3" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/0f969a46-0dad-4b29-a8b4-dc0087cb675c">
+<img width="800" alt="SIMULINK3" src="https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159038194/0f969a46-0dad-4b29-a8b4-dc0087cb675c">
 
 4. First Order System
 
