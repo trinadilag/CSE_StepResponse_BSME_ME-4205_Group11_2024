@@ -26,6 +26,11 @@
 
 4. First Order System
 
+![4 STEP](https://github.com/zolobsu/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/160817849/a431c77a-b0ff-4935-a4a5-7e3d7fd63f8c)
+
+![simulink](https://github.com/zolobsu/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/160817849/a03c097f-8a43-40e3-8628-843df7504de6)
+
+![4 SINE](https://github.com/zolobsu/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/160817849/9c107b6f-f44f-4029-ae32-b50c7e98a9f6)
 
 5. Resonant System
 
@@ -47,6 +52,11 @@
 
 7. Plant with Time Delay
 
+![7 STEP](https://github.com/zolobsu/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/160817849/433868ec-4fdb-4c31-972a-2e8dbae6c847)
+
+![simulink](https://github.com/zolobsu/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/160817849/446b31ba-06fe-4094-b439-76a38fbe5631)
+
+![7 SINE](https://github.com/zolobsu/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/160817849/1eef2aca-beb5-4708-93ef-979d1950b927)
 
 8. Nonlinear System Approximation
 
