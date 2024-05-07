@@ -6,6 +6,7 @@
 
 ![438246210_355563260840087_1396441429484037615_n](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/aee4b87f-2b6b-4bbc-a7d7-87ffc0b23a93)
 
+![438221186_769485975319768_7527900725537790096_n](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/c3f69ece-2483-447b-bfb3-c4534cd82d61)
 
 2. Second Order Overdamped System
 
