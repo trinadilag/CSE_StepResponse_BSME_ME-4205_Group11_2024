@@ -2,11 +2,11 @@
 
 1. Second Order Underdamped System
    
-![download](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/29cddc8f-8356-4cf5-8e08-5f1847b12008)
+![438245654_763758862553428_3895433541065095172_n](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/89155965-3096-4a60-9eb3-bbf86d31edef)
 
-![download](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/1b7a276d-182b-478e-a88e-ded110babde6)
+![438246210_355563260840087_1396441429484037615_n](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/aee4b87f-2b6b-4bbc-a7d7-87ffc0b23a93)
 
-![download](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/91549e71-b594-4f19-a9b6-e72443b7f495)
+![438221186_769485975319768_7527900725537790096_n](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/c3f69ece-2483-447b-bfb3-c4534cd82d61)
 
 2. Second Order Overdamped System
 
@@ -60,8 +60,35 @@
 
 8. Nonlinear System Approximation
 
-![download](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/cc8d4fab-eb30-4fa4-9dbc-605f5db7b8d0)
+![438246517_1348181975864533_2208670846270996405_n](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/f1d85779-9d99-4f09-a365-3da468358f7c)
 
 ![download](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/acc29151-6524-41cd-9da4-40d8b57c06b4)
 
 ![download](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/56533697-9f70-4b7f-8275-e73dc6c5300a)
+
+
+
+GROUP MEMBERS and CONTRIBUTIONS:
+1. Jose Zolo A. Delas Alas
+
+First Order System
+
+Plant with Time Delay
+
+2. Sofia Katrina A. Dilag
+
+Resonant System
+
+Electrical Filter with Multiple Poles
+
+3. Daniel Russell S. Espeleta
+
+Second Order Overdamped System
+
+Second Order Critically Damped System
+
+4. Geliane V. Villalobos
+
+Second Order Underdamped System
+
+Nonlinear System Approximation
