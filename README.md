@@ -55,3 +55,26 @@
 ![download](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/acc29151-6524-41cd-9da4-40d8b57c06b4)
 
 ![download](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/56533697-9f70-4b7f-8275-e73dc6c5300a)
+
+
+
+GROUP MEMBERS and CONTRIBUTIONS:
+1. Jose Zolo A. Delas Alas
+
+First Order System
+Plant with Time Delay
+
+2. Sofia Katrina A. Dilag
+
+Resonant System
+Electrical Filter with Multiple Poles
+
+3. Daniel Russell S. Espeleta
+
+Second Order Overdamped System
+Second Order Critically Damped System
+
+4. Geliane V. Villalobos
+
+Second Order Underdamped System
+Nonlinear System Approximation
