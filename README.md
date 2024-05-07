@@ -2,11 +2,10 @@
 
 1. Second Order Underdamped System
    
-![download](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/29cddc8f-8356-4cf5-8e08-5f1847b12008)
+![438245654_763758862553428_3895433541065095172_n](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/89155965-3096-4a60-9eb3-bbf86d31edef)
 
-![download](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/1b7a276d-182b-478e-a88e-ded110babde6)
+![438246210_355563260840087_1396441429484037615_n](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/aee4b87f-2b6b-4bbc-a7d7-87ffc0b23a93)
 
-![download](https://github.com/trinadilag/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159035926/91549e71-b594-4f19-a9b6-e72443b7f495)
 
 2. Second Order Overdamped System
 
