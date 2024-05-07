@@ -62,19 +62,23 @@ GROUP MEMBERS and CONTRIBUTIONS:
 1. Jose Zolo A. Delas Alas
 
 First Order System
+
 Plant with Time Delay
 
 2. Sofia Katrina A. Dilag
 
 Resonant System
+
 Electrical Filter with Multiple Poles
 
 3. Daniel Russell S. Espeleta
 
 Second Order Overdamped System
+
 Second Order Critically Damped System
 
 4. Geliane V. Villalobos
 
 Second Order Underdamped System
+
 Nonlinear System Approximation
